@@ -1,0 +1,38 @@
+body {
+    background-color: #333333;
+    color: #ffffff;
+    font-family: "Comic Sans MS";
+    margin: 0px;
+}
+
+.post {
+    background-color: #505050;
+    border-radius: 25px;
+    padding: 30px;
+}
+
+.navbar {
+    background-color: #008800;
+    text-decoration: none;
+    color: #ffffff;
+    border-radius: 5;
+    margin: 0px;
+    padding: 0px;
+    height: 40px
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+    padding: 7.5px;
+    font-size: 25px;
+}
+
+.title {
+    text-align: center;
+    
+}
+
+.main {
+    margin: 25px
+}
